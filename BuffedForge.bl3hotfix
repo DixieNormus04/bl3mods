@@ -1,0 +1,10 @@
+###
+### Name: Buffed Forge
+### Version: 1.0.1
+### Author: DixieNormus
+### Categories: char-gunner
+### License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+### License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+# Forge - Increase Regen to 35%.
+SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/PlayerCharacters/_Shared/_Design/Balance/Gunner/DataTable_Gunner_SkillsBalance.DataTable_Gunner_SkillsBalance,P_Forge,DamageScalar_2_28B25EC8493D1EB6C2138A962F659BCD,0,,0.35
